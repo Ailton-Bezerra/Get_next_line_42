@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/Ailton-Bezerra/Ailton-Bezerra/blob/main/badges/get_next_linem.png" alt="gnl 42 project badge"/>
 <p align="center">
-<p align="center">
-  <strong>125/100</strong> 🌟
-</p>
+$${\color{lightgreen}125/100}$$ 🌟
 
 ## Description
 `get_next_line` is a C function that reads text from a file descriptor (fd) one line at a time.
